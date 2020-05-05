@@ -1,0 +1,29 @@
+export default {
+  labelColor:'#B3BBFD',
+  labelFontSize:'12px',
+  boxBackColor:'#313768',
+  VulnerabilityChartBackColors:['#A44C6D','#91734D','#4A8FB7','#288380'],
+  VulnerabilityBackBarChartBackColors:['#353D6C'],
+  VulnerabilityBarChartColorsRanges:[
+  {
+    from:0,
+    to:17,
+    color:'#56CDF9'
+  },
+  {
+    from:18,
+    to:22,
+    color:'#16CEB9'
+  },
+  {
+    from:22,
+    to:26,
+    color:'#EAA323'
+  },
+  {
+    from:26,
+    to:110,
+    color:'#F7517F'
+  }
+]
+}
