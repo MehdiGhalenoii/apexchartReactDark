@@ -9,4 +9,4 @@
   npm run start:dev
 ```
 ### Contributors
-thanks to @madebyniloo for UI
+thanks to Niloofar zabardast for UI design
